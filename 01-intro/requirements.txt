@@ -1,0 +1,14 @@
+tqdm
+python-dotenv
+ipykernel
+jupyter
+notebook==7.1.2
+openai
+elasticsearch
+pandas
+scikit-learn
+groq
+markupsafe>=2.0
+beautifulsoup4>=4.11.1
+requests>=2.31
+google-generativeai

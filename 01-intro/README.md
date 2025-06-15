@@ -54,13 +54,13 @@ pip install minsearch
 * Peforming the search
 
 
-## 1.4 Generation with OpenAI
+## 1.4 Generation with Groq
 
 <a href="https://www.youtube.com/watch?v=qz316T3U49Q&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R">
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/qz316T3U49Q">
 </a>
 
-* Invoking OpenAI API
+* Invoking groq API
 * Building the prompt
 * Getting the answer
 
