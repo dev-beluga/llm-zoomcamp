@@ -2,3 +2,16 @@
 __pycache__/
 .venv
 .envrc
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (if large)
+*.csv
+*.json
+
+#test scripts
+01-intro/rag-intro.ipynb
+01-intro/parse-faq.ipynb
