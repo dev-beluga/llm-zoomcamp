@@ -12,3 +12,4 @@ markupsafe>=2.0
 beautifulsoup4>=4.11.1
 requests>=2.31
 google-generativeai
+tiktoken
